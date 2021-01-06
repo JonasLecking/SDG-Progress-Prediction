@@ -5,4 +5,4 @@ Specifically, it uses additive prediction models to forecast the progress toward
 The underlying data comes from the Sustainable Development Report 2020, created by the Bertelsmann Stiftung in conjunction with the Sustainable Development Solutions Network.
 
 
-The dataset used can be found here: https://github.com/sdsna/SDR2020. Given that the format of the data doesn't vary too much from year to year, it can be replaced by any year's SDR.
+The dataset used can be found here: https://github.com/sdsna/SDR2020. Given that the format of the data doesn't vary too much from year to year, it can be replaced by any year's SDR. Note: from the SDR report's Excel dataset file, save sheats "Codebook" and "Raw Data" as separate .xlsx files for the analysis to work.
